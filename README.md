@@ -1,4 +1,9 @@
 # weather-forecast-updated
+<img width="949" height="448" alt="Weatherfinal" src="https://github.com/user-attachments/assets/77451ddb-e853-4051-bdcc-2f230281f2f5" />
+<img width="105" height="206" alt="weather phone" src="https://github.com/user-attachments/assets/c30f1232-d367-4b7e-9de9-557cf596d40a" />
+<img width="448" height="212" alt="test result" src="https://github.com/user-attachments/assets/1c8a15d1-4a47-4a9f-80eb-70011d3e7e9f" />
+
+
 
 🌦️ India Weather Forecast App (Next.js Version)
 A modern Next.js weather forecast app displaying a 3-day forecast for major Indian cities. Users can toggle between local mock data and live weather data fetched from WeatherAPI.com using a reusable axios-based API caller.
